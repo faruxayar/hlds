@@ -1,0 +1,37 @@
+"AppState"
+{
+	"appid"		"70"
+	"Universe"		"1"
+	"name"		"Half-Life"
+	"StateFlags"		"68"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1499642769"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"445111768"
+	"buildid"		"1944943"
+	"LastOwner"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"betakey"		"beta"
+	}
+	"InstalledDepots"
+	{
+		"1"
+		{
+			"manifest"		"5409401804038872403"
+		}
+		"71"
+		{
+			"manifest"		"3614985112520122587"
+		}
+	}
+	"MountedDepots"
+	{
+		"1"		"5409401804038872403"
+		"71"		"3614985112520122587"
+	}
+}
